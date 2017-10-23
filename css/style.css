@@ -453,6 +453,7 @@ padding: -1px 0px;
 }
 .lastbanner button:hover{
     border-radius:0px;
+    width:165px;
     background-color:transparent;
     border:2px solid white;
     padding:10px 10px;
